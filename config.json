@@ -9,13 +9,13 @@
   },
   "text": {
     "more": "",
-    "intro": "",
-    "title": "Сетевой-дискурс-анализ"
+    "intro": "Дискурсивная сеть комментариев на YouTube.",
+    "title": "Сетевой дискурс-анализ"
   },
   "legend": {
     "edgeLabel": "Связь",
     "colorLabel": "Кластер",
-    "nodeLabel": "Концепция"
+    "nodeLabel": "Утверждение"
   },
   "features": {
     "search": true,
